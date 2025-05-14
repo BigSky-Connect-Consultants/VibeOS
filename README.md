@@ -5,57 +5,16 @@
 <p align="center">
     <!-- CasaOS Banner -->
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IceWhaleTech/logo/main/casaos/casaos_banner_dark_night_800x300.png">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IceWhaleTech/logo/main/casaos/casaos_banner_twilight_blue_800x300.png">
+        <source media="(prefers-color-scheme: dark)" srcset="img/VibeOS.png">
+        <source media="(prefers-color-scheme: light)" srcset="img/VibeOS.png">
         <img alt="CasaOS" src="https://raw.githubusercontent.com/IceWhaleTech/logo/main/casaos/casaos_banner_twilight_blue_800x300.png">
     </picture>
     <br/>
     <i>Connect with the community, establish autonomy, reduce the cost of SaaS, and MAXIMIZE the potential for a personalized copilot.</i>
     <br/>
     <br/>
-    <!-- CasaOS Badges -->
-    <a href="https://github.com/IceWhaleTech/CasaOS" target="_blank">
-        <img alt="CasaOS Version" src="https://img.shields.io/github/v/release/IceWhaleTech/CasaOS?color=162453&style=flat-square&label=CasaOS" />
-    </a>
-    <a href="https://github.com/IceWhaleTech/CasaOS/blob/main/LICENSE" target="_blank">
-        <img alt="CasaOS License" src="https://img.shields.io/github/license/IceWhaleTech/CasaOS?color=162453&style=flat-square&label=License" />
-    </a>
-    <a href="https://github.com/IceWhaleTech/CasaOS/pulls" target="_blank">
-        <img alt="CasaOS Pull Requests" src="https://img.shields.io/github/issues-pr/IceWhaleTech/CasaOS?color=162453&style=flat-square&label=PRs" />
-    </a>
-    <a href="https://github.com/IceWhaleTech/CasaOS/issues" target="_blank">
-        <img alt="CasaOS Issues" src="https://img.shields.io/github/issues/IceWhaleTech/CasaOS?color=162453&style=flat-square&label=Issues" />
-    </a>
-    <a href="https://codecov.io/gh/IceWhaleTech/CasaOS" > 
-    <img src="https://codecov.io/gh/IceWhaleTech/CasaOS/branch/main/graph/badge.svg?token=l9uMKGlkxM"/> 
-    </a>
-    <a href="https://github.com/IceWhaleTech/CasaOS/stargazers" target="_blank">
-        <img alt="CasaOS Stargazers" src="https://img.shields.io/github/stars/IceWhaleTech/CasaOS?color=162453&style=flat-square&label=Stars" />
-    </a>
-    <!-- <a href="https://github.com/IceWhaleTech/CasaOS/releases" target="_blank">
-    <img alt="CasaOS Downloads" src="https://img.shields.io/github/downloads/IceWhaleTech/CasaOS/total?color=162453&style=flat-square" />
-    </a> -->
-    <br/>
-    <!-- CasaOS Community -->
-    <a href="https://discord.gg/knqAbbBbeX" target="_blank">
-        <img alt="IceWhale Discord" src="https://img.shields.io/discord/884667213326463016?color=162453&style=flat-square&label=Discord&logo=discord&logoColor=fff" />
-    </a>
-    <a href="https://github.com/IceWhaleTech/CasaOS/discussions" target="_blank">
-        <img alt="CasaOS GitHub Discussions" src="https://img.shields.io/github/discussions/IceWhaleTech/CasaOS?color=162453&style=flat-square&label=Discussions&logo=github" />
-    </a>
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<a href="#credits"><img alt="All Contributors" src="https://img.shields.io/static/v1?label=All%20Contributors&message=15&color=162453&style=flat-square&logo=Handshake&logoColor=fff" /></a>
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-    <br/>
-    <!-- CasaOS YouTube -->
-    <a href="https://www.youtube.com/channel/UC2zMrUYT17AJhIl9XWZzT8g" target="_blank">
-        <img alt="YouTube Tutorial Views" src="https://img.shields.io/youtube/channel/views/UC2zMrUYT17AJhIl9XWZzT8g?style=for-the-badge&logo=youtube&logoColor=red&label=YouTube%20Tutorial%20Views" />
-    </a>
-    <br/>
     <!-- CasaOS Links -->
-    <a href="https://www.casaos.io" target="_blank">Website</a> |
-    <a href="http://demo.casaos.io" target="_blank">Demo</a> |
-    <a href="https://github.com/IceWhaleTech/CasaOS" target="_blank">GitHub</a>
+    <a href="https://github.com/BigSky-Connect-Consultants/VibeOS/" target="_blank">GitHub</a>
     <br/>
     <br/>
     <!-- CasaOS Snapshots -->
