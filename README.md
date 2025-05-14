@@ -1,4 +1,5 @@
 # CasaOS - Your Personal Cloud 
+## **NOTE:** This project is in the early stages of development. Check back for regular updates, or reach out if you'd like to collaborate on building a professional self-hosted environment for vibe coding projects.
 <!-- Readme i18n links -->
 <!-- > English | [中文](#) | [Français](#) -->
 
